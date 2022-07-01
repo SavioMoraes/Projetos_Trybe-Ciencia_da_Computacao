@@ -26,7 +26,7 @@ Esses dados de estoque poderão ser obtidos de diversas fontes:
 
 Além disso, o relatório final deverá poder ser gerado em duas versões: simples e completa.
 
-
+## Para executar o projeto:
 ```bash
 $ python3 -m venv .venv
 
